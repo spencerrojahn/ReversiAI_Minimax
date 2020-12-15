@@ -1,6 +1,6 @@
 // Class for each state (node)
 public class gameState {
-	int n = 4;
+	
 	// Each state needs a board configuration
 	// DARK(X) - 0, LIGHT(O) - 1
 	private char[][] board = new char[n][n];
